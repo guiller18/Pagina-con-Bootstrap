@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Pagina web para SynergyGB
 
 You can use the [editor on GitHub](https://github.com/guiller18/Prueba-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
