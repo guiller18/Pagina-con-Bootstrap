@@ -1,8 +1,8 @@
 {
-    "title": "Grayscale",
-    "name": "startbootstrap-grayscale",
+    "title": "Synergy-GB",
+    "name": "Synergy-GB",
     "version": "4.1.1",
-    "description": "A grayscale one page HTML theme for Bootstrap.",
+    "description": "Pagina de Ingreso.",
     "keywords": [
         "css",
         "sass",
@@ -11,13 +11,13 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/grayscale",
+    "homepage": "https://synergy.vision/",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-grayscale/issues",
+        "url": "https://synergy.vision/",
         "email": "feedback@startbootstrap.com"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "Guillermo Reyes",
     "contributors": [
         "David Miller (http://davidmiller.io/)"
     ],
